@@ -3,17 +3,17 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to mi proyecto's documentation!
+Bienvenidos a la documentacion!
 =======================================
 
-Contents:
+Contenidos:
 
 .. toctree::
    :maxdepth: 2
 
    example
 
-Indices and tables
+Indices y tablas
 ==================
 
 * :ref:`genindex`
