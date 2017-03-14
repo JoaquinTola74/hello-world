@@ -26,7 +26,7 @@ Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de te
 2. Datos Estadísticos
 ===============
 
-.. image:: _static/stadistic.jpg
+.. image:: img/stadistic.jpg
 
 
 
